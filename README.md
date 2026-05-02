@@ -1,16 +1,30 @@
-## Hi there 👋
+# TiniDrop
 
-<!--
-**TiniDrop/TiniDrop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TiniDrop** is a multilingual file hosting platform that turns uploads into shareable links in seconds. Users drag and drop ZIP, HTML, PDF, and common image formats to publish a direct URL—without maintaining infrastructure or cloud storage accounts for basic use.
 
-Here are some ideas to get you started:
+The product is designed for global use: the interface ships in **10 languages**, including German, Spanish, French, Portuguese, Hindi, Arabic, Turkish, Indonesian, Russian, and Japanese.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Product
+
+| | |
+|---|---|
+| **Website** | [tinidrop.com](https://tinidrop.com) |
+| **Use case** | Fast file publishing for individuals, educators, teams, and businesses |
+| **Free tier** | Upload without an account; standard limits apply |
+| **Paid plans** | Higher limits, permanent links, password protection, email capture, and additional controls |
+
+---
+
+## Contact
+
+| | |
+|---|---|
+| **General inquiries** | [hello@tinidrop.com](mailto:hello@tinidrop.com) |
+| **Company** | [LinkedIn — TiniDrop](https://linkedin.com/company/tinidrop) |
+| **Headquarters** | Germany |
+
+---
+
+*© TiniDrop — [tinidrop.com](https://tinidrop.com)*
