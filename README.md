@@ -31,4 +31,4 @@ Languages: English, Spanish, Portuguese, German, French, Arabic, Japanese.
 
 ## Contact
 
-[hello@tinidrop.com](mailto:hello@tinidrop.com) · [LinkedIn](https://linkedin.com/company/tinidrop)
+[hello@tinidrop.com](mailto:hello@tinidrop.com) · [API](https://tinidrop.com/api-docs) · [LinkedIn](https://linkedin.com/company/tinidrop)
