@@ -8,9 +8,9 @@
   <p>Share pitch decks, sites, and contracts as a link. Know who opened it, which pages they read, and when to follow up.</p>
 
   <p>
-    <a href="https://tinidrop.com"><img src="https://img.shields.io/badge/Website-tinidrop.com-7C3AED?style=for-the-badge" alt="Website" /></a>
-    <a href="https://tinidrop.com/pricing"><img src="https://img.shields.io/badge/Pricing-Free_to_start-111111?style=for-the-badge" alt="Pricing" /></a>
-    <a href="https://linkedin.com/company/tinidrop"><img src="https://img.shields.io/badge/LinkedIn-TiniDrop-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://tinidrop.com"><img src="https://img.shields.io/badge/tinidrop.com-7C3AED?style=for-the-badge" alt="tinidrop.com" /></a>
+    <a href="https://tinidrop.com/pricing"><img src="https://img.shields.io/badge/Free_to_start-111111?style=for-the-badge" alt="Pricing" /></a>
+    <a href="https://linkedin.com/company/tinidrop"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
 
   <p>
