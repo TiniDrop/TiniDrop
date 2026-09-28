@@ -1,10 +1,4 @@
 <p align="center">
-  <img src="assets/logo.png" alt="TiniDrop" width="72" />
-</p>
-
-<h1 align="center">TiniDrop</h1>
-
-<p align="center">
   Share a file or a website as a link. See who opened it.<br />
   <a href="https://tinidrop.com">tinidrop.com</a>
   · Germany
